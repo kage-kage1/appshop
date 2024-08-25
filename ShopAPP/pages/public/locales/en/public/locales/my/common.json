@@ -1,0 +1,16 @@
+{
+    "welcome": "Welcome to MLBB Diamond Store",
+    "select_packet": "Please select a diamond packet:",
+    "order_now": "Order Now",
+    "place_order": "Place Your Order",
+    "diamond_packet": "Diamond Packet",
+    "user_id": "User ID",
+    "proceed_to_payment": "Proceed to Payment",
+    "enter_payment": "Enter Payment Details",
+    "payment_method": "Payment Method",
+    "pay_now": "Pay Now",
+    "profile": "Profile",
+    "user_info": "User Information",
+    "logout": "Log Out"
+  }
+  
